@@ -28,4 +28,4 @@ jobs:
 
       - name: Run tests
         run: |
-          mvn test && echo "Desplegado" || echo "Negado"
+          mvn test && echo "Desplegado" || echo "Negado"
